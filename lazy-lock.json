@@ -1,0 +1,12 @@
+{
+  "LuaSnip": { "branch": "master", "commit": "2dbef19461198630b3d7c39f414d09fb07d1fdd2" },
+  "cmp-nvim-lsp": { "branch": "main", "commit": "5af77f54de1b16c34b23cba810150689a3a90312" },
+  "lazy.nvim": { "branch": "main", "commit": "aedcd79811d491b60d0a6577a9c1701063c2a609" },
+  "lsp-zero.nvim": { "branch": "v3.x", "commit": "abac76482ec3012a2b359ba956a74e2ffd33d46f" },
+  "monokai-nightasty.nvim": { "branch": "main", "commit": "57c0c7457d54eac790864a5168007ccf0d75fe59" },
+  "nvim-cmp": { "branch": "main", "commit": "04e0ca376d6abdbfc8b52180f8ea236cbfddf782" },
+  "nvim-lspconfig": { "branch": "master", "commit": "0a1a2aa549da0d2294e072e2d725f02cca32f64e" },
+  "nvim-treesitter": { "branch": "master", "commit": "5973b617a9a48212e40c5c0a0727ad7c91b27484" },
+  "plenary.nvim": { "branch": "master", "commit": "4f71c0c4a196ceb656c824a70792f3df3ce6bb6d" },
+  "telescope.nvim": { "branch": "master", "commit": "d90956833d7c27e73c621a61f20b29fdb7122709" }
+}
